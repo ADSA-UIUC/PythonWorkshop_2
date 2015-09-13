@@ -1,2 +1,2 @@
 # PythonWorkshop_2
-Code for ADSA's 2nd workshop: Python Review
+Code for ADSA's 2nd workshop: Diving Deeper into Python
